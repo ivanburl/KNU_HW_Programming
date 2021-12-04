@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libUzVarLib.a CMakeFiles/UzVarLib.dir/UzVar.cpp.obj
+C:\MinGW\bin\ranlib.exe libUzVarLib.a

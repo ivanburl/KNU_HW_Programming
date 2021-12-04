@@ -1,0 +1,8 @@
+D:/Deckstop/KNU_HW_Programming/HW_7/build/CMakeFiles/edit_cache.dir
+D:/Deckstop/KNU_HW_Programming/HW_7/build/CMakeFiles/rebuild_cache.dir
+D:/Deckstop/KNU_HW_Programming/HW_7/build/Demo/CMakeFiles/demo.dir
+D:/Deckstop/KNU_HW_Programming/HW_7/build/Demo/CMakeFiles/edit_cache.dir
+D:/Deckstop/KNU_HW_Programming/HW_7/build/Demo/CMakeFiles/rebuild_cache.dir
+D:/Deckstop/KNU_HW_Programming/HW_7/build/Lib/CMakeFiles/UzVarLib.dir
+D:/Deckstop/KNU_HW_Programming/HW_7/build/Lib/CMakeFiles/edit_cache.dir
+D:/Deckstop/KNU_HW_Programming/HW_7/build/Lib/CMakeFiles/rebuild_cache.dir

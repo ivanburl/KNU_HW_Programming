@@ -1,0 +1,7 @@
++ - plus
+- - minus
+/ - division
+% - reminder
+* - multiplication
+
+https://www.programiz.com/cpp-programming/operators
