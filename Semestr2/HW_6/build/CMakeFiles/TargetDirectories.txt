@@ -1,5 +1,5 @@
-C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/CMakeFiles/main.dir
-C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/CMakeFiles/package.dir
-C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/CMakeFiles/package_source.dir
-C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/CMakeFiles/edit_cache.dir
-C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/CMakeFiles/rebuild_cache.dir
+C:/KNU_HW_Programming/Semestr2/HW_6/build/CMakeFiles/main.dir
+C:/KNU_HW_Programming/Semestr2/HW_6/build/CMakeFiles/package.dir
+C:/KNU_HW_Programming/Semestr2/HW_6/build/CMakeFiles/package_source.dir
+C:/KNU_HW_Programming/Semestr2/HW_6/build/CMakeFiles/edit_cache.dir
+C:/KNU_HW_Programming/Semestr2/HW_6/build/CMakeFiles/rebuild_cache.dir

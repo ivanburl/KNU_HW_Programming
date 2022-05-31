@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/main.cpp.obj: \
- C:\Users\user\Documents\Programming\C++\KNU_HW_Programming\Semestr2\HW_6\main.cpp \
+ C:\KNU_HW_Programming\Semestr2\HW_6\main.cpp \
  c:\mingw\include\c++\11.2.0\x86_64-w64-mingw32\bits\stdc++.h \
  c:\mingw\include\c++\11.2.0\cassert \
  c:\mingw\include\c++\11.2.0\x86_64-w64-mingw32\bits\c++config.h \

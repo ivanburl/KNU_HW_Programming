@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6
+# Install script for directory: C:/KNU_HW_Programming/Semestr2/HW_6
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/KNU_HW_Programming/Semestr2/HW_6/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
