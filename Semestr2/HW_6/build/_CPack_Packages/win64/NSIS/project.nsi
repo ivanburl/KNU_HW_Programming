@@ -5,7 +5,7 @@
 
   !define VERSION ""
   !define PATCH  "1"
-  !define INST_DIR "C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/MyProject--win64"
+  !define INST_DIR "C:/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/MyProject--win64"
 
 ;--------------------------------
 ;Variables
@@ -32,7 +32,7 @@
 
   ;Name and file
   Name "MyProject "
-  OutFile "C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/MyProject--win64.exe"
+  OutFile "C:/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/MyProject--win64.exe"
 
   ;Set compression
   SetCompressor lzma

@@ -12,3 +12,6 @@ set(CPACK_PACKAGE_VERSION_MAJOR "${Tutorial_VERSION_MAJOR}")
 set(CPACK_PACKAGE_VERSION_MINOR "${Tutorial_VERSION_MINOR}")
 set(CPACK_SOURCE_GENERATOR "TGZ")
 include(CPack)
+
+
+#It shoudl work but it somehow breaks due to big path howver on linux it works =)

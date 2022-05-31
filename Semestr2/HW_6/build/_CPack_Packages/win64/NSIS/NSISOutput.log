@@ -1,7 +1,7 @@
-# Run command: "C:/Program Files (x86)/NSIS/makensis.exe" "C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/project.nsi"
+# Run command: "C:/Program Files (x86)/NSIS/makensis.exe" "C:/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/project.nsi"
 # Output:
 Processing config: C:\Program Files (x86)\NSIS\nsisconf.nsh
-Processing script file: "C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/project.nsi" (UTF8)
+Processing script file: "C:/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/project.nsi" (UTF8)
 !insertmacro: select_NT_profile
 Function: "select_NT_profile"
 StrCmp "$ADD_TO_PATH_ALL_USERS" "1" equal=0, nonequal=environment_single
@@ -412,9 +412,9 @@ ReserveFile: "NSIS.InstallOptions.ini" [compress] 271/657 bytes
 ReserveFile: "UserInfo.dll" [compress] 1314/4096 bytes
 Section: "-Core installation"
 SetOutPath: "$INSTDIR"
-File: Returning to: "C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/MyProject--win64"
-File: "C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/MyProject--win64\*.*" -> no files found.
+File: Returning to: "C:/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/MyProject--win64"
+File: "C:/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/MyProject--win64\*.*" -> no files found.
 Usage: File [/nonfatal] [/a] ([/r] [/x filespec [...]] filespec [...] |
    /oname=outfile one_file_only)
-Error in script "C:/Users/user/Documents/Programming/C++/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/project.nsi" on line 660 -- aborting creation process
+Error in script "C:/KNU_HW_Programming/Semestr2/HW_6/build/_CPack_Packages/win64/NSIS/project.nsi" on line 660 -- aborting creation process
 
